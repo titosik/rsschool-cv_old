@@ -1,6 +1,6 @@
 TITOVA OLGA ＊ *Junior Frontend Developer*
 ---------------------------------------
-✉ titosikos@gmail.com  ☎ +79080587233 [@titosik](https://www.instagram.com/titosik/) 
+✉ titosikos@gmail.com  ☎ +79080587233 ☎ +35797822528 [@titosik](https://www.instagram.com/titosik/) 
 
 PROFILE
 I am creative and curious, people and result oriented, I have a solid leading background with different teams and different tasks where with a team we reached ambitious goals through professional and personal development.
