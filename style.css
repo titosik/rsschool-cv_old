@@ -1,0 +1,137 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {
+    background-color: #fff;
+    color:#555;
+    font-family: 'Lato', 'Arial','sans-serif';
+    font-weight: 300;
+    font-size: 20px;
+    text-rendering: optimizeLegibility;
+
+}
+.row {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+
+header {
+    background-image: url("resources/css/img/imgOlga.jpg");
+    background-size: cover;
+    background-position: top;
+    width: 1140px;
+    height: 160vh;
+    margin-left: auto;
+    margin-right: auto;
+
+    }
+
+.hero-text-box {
+    position: absolute;
+    width: 1140px;
+    top: 30%;
+    left: 54%;
+    text-decoration: ;
+    transform: translate(-10%, -10%);
+}
+
+h1 {
+    color: #4d4d4d;
+    margin-top: 0;
+    margin-bottom: 0px;
+    font-size: 200%;
+    font-weight: 00;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+
+}
+
+h2 {
+    color: #4d4d4d;
+    margin: -30px 0 0 0;
+    font-size: 150%;
+    font-weight: 200;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+}
+
+.btn {
+    margin-top: 50px;
+    display: inline-block;
+    padding: 10px 35px;
+    font-weight: 300;
+    text-decoration: none;
+    border-radius: 0px;
+    color: #fff;
+    background-color: #fe504f;
+    border: 1px solid #fe504f;
+    text-transform: uppercase;
+}
+
+section {
+    width: 800px;
+    height: 140px;
+    float: right;
+    margin-top: 50px;
+    display: inline-block;
+    padding: 10px 35px;
+    font-weight: 300;
+    text-decoration: none;
+    border-radius: 0px;
+    color: #fff;
+    background-color: #fe504f;
+    border: 1px solid #fe504f;
+    text-transform: uppercase;
+}
+
+.profile {
+    position: absolute;
+    width: 550px;
+    top: 50%;
+    left: 51%;
+    transform: translate(-10%, -10%);
+    text-align: justify;
+    margin: 0 auto;
+
+}
+
+h3 {
+    color: #fe504f;
+}
+
+.row  {
+    text-align: left;
+    display:inline-flexbox;
+    position: absolute;
+    padding: 60px;
+    margin: auto;
+    width: 610px;
+    top: 75%;
+    left: 48%;
+    transform: translate(-10%, -10%);
+    background-color: rgba(255, 255, 255, 0.6);
+}
+
+footer {
+    background-color: #333;
+    padding: 10px;
+    font-size: 80%;
+    width: 1140px;
+    height: 150px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    text-decoration: none;
+}
+
+.social {
+    width: 90px;
+    display: inline-block;
+    padding: 10px;
+
+}
